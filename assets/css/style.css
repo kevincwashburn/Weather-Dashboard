@@ -1,0 +1,31 @@
+
+.heading-bar {
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+#vertical-col {
+    background-color: #f7f7f7;
+    padding: 10px;
+    margin: 0 auto;
+    
+}
+
+.user-city {
+    padding: 5px;
+    width: 90%;
+}
+
+.d-flex {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.flex-grow {
+    flex-grow:1;
+}
+
+
+
